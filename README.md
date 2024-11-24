@@ -1,16 +1,9 @@
-# fake_store_api
+# Fake Store API
 
-A new Flutter project.
+API Utilizada: https://fakestoreapi.com/products
 
-## Getting Started
+Package: http
 
-This project is a starting point for a Flutter application.
+Retorno de dados da API em tela
+![image](https://github.com/user-attachments/assets/48d13058-bdba-4d5e-bd2d-675625aa703d)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
